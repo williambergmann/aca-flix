@@ -1,0 +1,1 @@
+//Look for the action “SEARCH_RESULTS_LOADED” and return the value

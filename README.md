@@ -51,6 +51,7 @@
 * import store and assign to store prop
 
 ### Actions
+//read fetch POST docs
 * remember to export your actions
 * loadMyMovieList()
     * type = “LOAD_MY_MOVIE_LIST”
